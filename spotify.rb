@@ -16,8 +16,6 @@ class Song
 
   end
 
-
-
   playlist1 = Song.new("baby baby", "pop", "Justinbiber_usa")
   playlist2 = Song.new("dont stop me now", "rock", "Queen")
   playlist3 = Song.new("dont know lyrics", "pop", "Justinbiber_b")
